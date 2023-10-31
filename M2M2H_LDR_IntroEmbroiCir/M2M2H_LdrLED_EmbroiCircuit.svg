@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 529.56 595.67">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #1d1d1b;
+        font-family: TrebuchetMS, 'Trebuchet MS';
+        font-size: 7px;
+      }
+
+      .cls-3 {
+        stroke: #29235c;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: #878787;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10, .cls-2 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        stroke: #1d1d1b;
+        stroke-width: .28px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #088937;
+      }
+
+      .cls-6 {
+        stroke-width: .71px;
+      }
+
+      .cls-7 {
+        stroke: #878787;
+        stroke-width: .7px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <line id="gge45397" class="cls-6" x1="8.27" y1="560.12" x2="36.66" y2="560.12"/>
+    <text class="cls-1" transform="translate(52.5 511.27)"><tspan x="0" y="0">Component touch point</tspan></text>
+    <text class="cls-1" transform="translate(52.5 562.18)"><tspan x="0" y="0">Thread wire (non conductive bobbin)</tspan></text>
+    <line id="gge45397-2" data-name="gge45397" class="cls-5" x1="9.3" y1="583.49" x2="37.69" y2="583.49"/>
+    <text class="cls-1" transform="translate(52.5 585.87)"><tspan x="0" y="0">Insulated thread wire </tspan></text>
+    <line id="gge45397-3" data-name="gge45397" class="cls-3" x1="12.34" y1="583.49" x2="34.66" y2="583.49"/>
+    <text class="cls-1" transform="translate(3.53 490.62)"><tspan class="cls-10" x="0" y="0">Circuit </tspan><tspan class="cls-9" x="24.19" y="0">K</tspan><tspan class="cls-10" x="28.15" y="0">ey</tspan></text>
+    <text class="cls-2" transform="translate(57.21 490.62)"><tspan x="0" y="0">Thread purpose</tspan></text>
+    <text class="cls-2" transform="translate(180.65 490.62)"><tspan x="0" y="0">Color</tspan></text>
+    <text class="cls-2" transform="translate(183.4 511.27)"><tspan x="0" y="0">Grey</tspan></text>
+    <text class="cls-2" transform="translate(183.68 533.33)"><tspan x="0" y="0">Grey</tspan></text>
+    <text class="cls-2" transform="translate(183.95 557.02)"><tspan x="0" y="0">Green</tspan></text>
+    <text class="cls-2" transform="translate(183.95 583.49)"><tspan x="0" y="0">Dark Blue</tspan></text>
+    <polygon class="cls-4" points="259.18 595.53 .14 595.53 .14 521.06 .14 478.87 259.18 478.87 259.18 595.53"/>
+    <line class="cls-4" x1="259.18" y1="521.04" x2=".14" y2="521.04"/>
+    <line class="cls-4" x1="259.18" y1="496.04" x2=".14" y2="496.04"/>
+    <line class="cls-4" x1="259.18" y1="570.85" x2=".14" y2="570.85"/>
+    <line class="cls-4" x1="259.17" y1="545.81" x2=".14" y2="545.81"/>
+    <line class="cls-4" x1="44.79" y1="478.87" x2="44.79" y2="595.53"/>
+    <line class="cls-4" x1="175.79" y1="478.87" x2="175.79" y2="595.53"/>
+    <g>
+      <g id="gge45368">
+        <g>
+          <polyline class="cls-7" points="213.86 152.27 84.21 152.27 84.21 165.51"/>
+          <rect class="cls-8" x="213.51" y="150" width=".7" height="4.55"/>
+          <rect class="cls-8" x="81.94" y="165.16" width="4.55" height=".7"/>
+        </g>
+      </g>
+      <g id="gge45394">
+        <g>
+          <polyline class="cls-7" points="105.13 322.28 114.21 322.28 144.21 307.28 153.86 307.28"/>
+          <rect class="cls-8" x="104.78" y="320" width=".7" height="4.55"/>
+          <rect class="cls-8" x="153.51" y="305" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge45397-4" data-name="gge45397">
+        <g>
+          <polyline class="cls-7" points="63.86 322.28 49.21 322.28 39.21 222.27 39.21 2.27 51.64 2.27"/>
+          <rect class="cls-8" x="63.51" y="320" width=".7" height="4.55"/>
+          <rect class="cls-8" x="51.29" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge45417">
+        <g>
+          <polyline class="cls-7" points="284.21 397.28 444.21 337.28 529.21 190.46 529.21 102.27 104.21 102.27 104.21 2.27 90.56 2.27"/>
+          <rect class="cls-8" x="90.21" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge45499">
+        <g>
+          <polyline class="cls-7" points="460.42 152.27 479.21 152.27 479.21 242.27 434.21 322.28 284.21 377.28 284.21 397.28"/>
+          <rect class="cls-8" x="460.07" y="150" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge45595">
+        <g>
+          <polyline class="cls-7" points="284.21 387.28 439.21 327.28 509.21 208.27 509.21 122.27 259.21 122.27 259.21 152.27 239.92 152.27"/>
+          <rect class="cls-8" x="239.57" y="150" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge45647">
+        <g>
+          <line class="cls-7" x1="284.21" y1="352.16" x2="284.21" y2="377.28"/>
+          <rect class="cls-8" x="281.94" y="351.81" width="4.55" height=".7"/>
+        </g>
+      </g>
+      <g id="gge45654">
+        <g>
+          <polyline class="cls-7" points="386.96 162.69 386.96 152.27 417.14 152.27"/>
+          <rect class="cls-8" x="384.68" y="162.34" width="4.55" height=".7"/>
+          <rect class="cls-8" x="416.8" y="150" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge47184">
+        <g>
+          <polyline class="cls-7" points="128.86 227.27 59.21 227.27 59.21 127.27 109.21 127.27 109.21 152.27"/>
+          <rect class="cls-8" x="128.51" y="225" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge47191">
+        <g>
+          <line class="cls-7" x1="324.56" y1="227.27" x2="479.21" y2="227.27"/>
+          <rect class="cls-8" x="324.21" y="225" width=".7" height="4.55"/>
+        </g>
+      </g>
+      <g id="gge47216">
+        <g>
+          <polyline class="cls-7" points="84.21 187.59 84.21 202.68 386.96 202.68 386.96 184.16"/>
+          <rect class="cls-8" x="81.94" y="187.24" width="4.55" height=".7"/>
+          <rect class="cls-8" x="384.68" y="183.81" width="4.55" height=".7"/>
+        </g>
+      </g>
+      <g id="gge47225">
+        <g>
+          <polyline class="cls-7" points="344.21 306.92 344.21 266.34 234.21 266.34 234.21 202.68"/>
+          <rect class="cls-8" x="341.94" y="306.58" width="4.55" height=".7"/>
+        </g>
+      </g>
+    </g>
+    <line id="gge45397-5" data-name="gge45397" class="cls-7" x1="8.27" y1="533.33" x2="36.66" y2="533.33"/>
+    <text class="cls-1" transform="translate(53.64 536.19)"><tspan x="0" y="0">Thread wire (conductive bobbin)</tspan></text>
+    <g id="gge45397-6" data-name="gge45397">
+      <g>
+        <line class="cls-7" x1="8.62" y1="509.33" x2="36.31" y2="509.33"/>
+        <rect class="cls-8" x="8.27" y="507.06" width=".7" height="4.55"/>
+        <rect class="cls-8" x="35.96" y="507.06" width=".7" height="4.55"/>
+      </g>
+    </g>
+    <polyline id="gge45394-2" data-name="gge45394" class="cls-7" points="104.78 322.27 114.21 322.27 144.21 307.27 154.21 307.27"/>
+  </g>
+  <g id="Insulated_layer" data-name="Insulated layer">
+    <polyline id="gge47216-2" data-name="gge47216" class="cls-3" points="84.21 195.24 84.21 202.68 386.96 202.68 386.96 191.81"/>
+    <polyline id="gge47225-2" data-name="gge47225" class="cls-3" points="344.21 300.27 344.21 266.34 234.21 266.34 234.21 202.68"/>
+    <polyline id="gge45394-3" data-name="gge45394" class="cls-3" points="108.78 322.27 114.21 322.27 144.21 307.27 150.21 307.27"/>
+    <polyline id="gge45397-7" data-name="gge45397" class="cls-3" points="57.21 322.27 49.21 322.27 39.21 222.27 39.21 2.27 45.99 2.27"/>
+  </g>
+</svg>
